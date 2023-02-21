@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author majinblue
+ *
+ */
+module ChessConsole {
+}
